@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/AgDataGrid_FocusedColumnHeaderStyle/MainPage.xaml) (VB: [MainPage.xaml](./VB/AgDataGrid_FocusedColumnHeaderStyle/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/AgDataGrid_FocusedColumnHeaderStyle/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/AgDataGrid_FocusedColumnHeaderStyle/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/AgDataGrid_FocusedColumnHeaderStyle/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/AgDataGrid_FocusedColumnHeaderStyle/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to change the focused column's style
 
